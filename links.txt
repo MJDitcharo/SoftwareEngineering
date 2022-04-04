@@ -1,0 +1,17 @@
+https://github.com/AltimorTASDK/strivehitboxes
+This repo is used for a popular fighting game called Guilty Gear Strive. Its main purpose is to show the hitboxes and hurtboxes for
+characters in real time inside the game.
+
+https://github.com/LeagueSandbox/GameServer
+This repo is used for the MOBA League of Legends. Its main purpose is to create a sandbox server that can be used for anything whether its testing characters
+or messing around with friends.
+
+https://github.com/BLCM/BLCMods
+This repo is used for the FPS RPG Borderlands. It contains multiple mods that can be used to affect the general gameplay in drastic ways.
+
+https://github.com/omp/tf2hud
+This repo is used for the FPS Team Fortress 2. It is used to change the default hud into a custom one of the players choosing. This can also be edited in many ways.
+
+https://github.com/Kamikaze94/WolfHUD
+This repo is used for the Mob Shooter FPS Payday 2. Just like the one before, this contains mods that are used to change the defaul HUD into one that the player
+desires.
